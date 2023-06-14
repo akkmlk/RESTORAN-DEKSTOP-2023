@@ -1,0 +1,18 @@
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.vbproj.AssemblyReference.cache
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.vbproj.SuggestedBindingRedirects.cache
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.FormAdmin.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.FormLogin.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.FormUser.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.Resources.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.vbproj.GenerateResource.cache
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.vbproj.CoreCompileInputs.cache
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\bin\Debug\Toko Kelontong.exe.config
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\bin\Debug\Toko Kelontong.exe
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\bin\Debug\Toko Kelontong.pdb
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\bin\Debug\Toko Kelontong.xml
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.FormBarang.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.FormLaporan.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko_Kelontong.FormTransaksi.resources
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.exe
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.xml
+D:\Latihan VB Akmal\Toko Kelontong\Toko Kelontong\obj\Debug\Toko Kelontong.pdb
